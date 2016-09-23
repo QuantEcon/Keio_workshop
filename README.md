@@ -2,6 +2,10 @@
 
 For the QuantEcon lecture at Keio in October 2016
 
+Based partly on the lectures at http://lectures.quantecon.org/
+
+
+
 ### Installing Software 
 
 Go to these links and follow instructions for your OS
