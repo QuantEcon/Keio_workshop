@@ -2,7 +2,7 @@
 
 Notebooks for the seminar at Keio with Ippei Fujiwara
 
-John Stachurski
+[John Stachurski](http://johnstachurski.net/)
 
 September 2016
 
