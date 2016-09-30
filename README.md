@@ -31,7 +31,7 @@ To access the files in this repositiory, either
 
 * [use git](https://git-scm.com), if you know what that is, or
 
-* [download the zip file](https://github.com/QuantEcon/Keio_workshop/master.zip)
+* [download the zip file](https://github.com/QuantEcon/Keio_workshop/archive/master.zip)
 
 
 
