@@ -4,6 +4,11 @@ For the QuantEcon lecture at Keio in October 2016
 
 Based partly on the lectures at http://lectures.quantecon.org/
 
+### Useful Links
+
+* [QuantEcon lectures](http://lectures.quantecon.org/)
+
+* [Cheat sheet](http://cheatsheets.quantecon.org/)
 
 
 ### Installing Software 
