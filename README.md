@@ -1,8 +1,6 @@
 # Keio_workshop
 
-For the QuantEcon lecture at Keio in October 2016
-
-Based partly on the lectures at http://lectures.quantecon.org/
+For the lecture on modern computational methods at Keio, October 2016
 
 ### Useful Links
 
