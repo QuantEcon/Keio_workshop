@@ -11,6 +11,15 @@
 * [Cheat sheet](http://cheatsheets.quantecon.org/)
 
 
+### Get the Files
+
+To access the files in this repositiory, either 
+
+* [use git](https://git-scm.com), if you know what that is, or
+
+* [download the zip file](https://github.com/QuantEcon/Keio_workshop/archive/master.zip)
+
+
 
 
 ### Installing Software 
@@ -32,17 +41,8 @@ Also consider installing
 * [Git](https://git-scm.com/downloads)
 
 
-### Get the Files
 
-To access the files in this repositiory, either 
-
-* [use git](https://git-scm.com), if you know what that is, or
-
-* [download the zip file](https://github.com/QuantEcon/Keio_workshop/archive/master.zip)
-
-
-
-### Software 
+### Jupyter in the Cloud
 
 Other options for free Jupyter notebooks in the cloud 
 
