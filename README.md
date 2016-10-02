@@ -1,12 +1,16 @@
-# Keio_workshop
+# Keio Computational Economics Workshop
 
-For the lecture on modern computational methods at Keio, October 2016
+[John Stachurski](http://johnstachurski.net/), October 2016
+
+
 
 ### Useful Links
 
 * [QuantEcon lectures](http://lectures.quantecon.org/)
 
 * [Cheat sheet](http://cheatsheets.quantecon.org/)
+
+
 
 
 ### Installing Software 
